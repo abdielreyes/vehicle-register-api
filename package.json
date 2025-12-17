@@ -1,5 +1,5 @@
 {
-  "name": "tdd",
+  "name": "vehicle-register-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^25.0.3",
-    "git-commit-msg-linter": "^5.0.8",
-    "typescript": "^5.9.3"
+    "eslint": "^9.39.2",
+    "globals": "^16.5.0",
+    "jiti": "^2.6.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.50.0"
   }
 }
