@@ -1,5 +1,5 @@
 //asdasdf
-function test(): string {
+function test(): number {
   return "test";
 }
 test();
