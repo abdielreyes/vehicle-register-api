@@ -1,5 +1,5 @@
-//asdasdf
-function test(): boolean {
-  return "test";
+function myTest(): number {
+  const num = 25;
+  return num;
 }
-test();
+myTest();
